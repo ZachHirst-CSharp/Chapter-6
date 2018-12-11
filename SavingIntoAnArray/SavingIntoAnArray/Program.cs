@@ -13,8 +13,8 @@ namespace SavingIntoAnArray
         {
             int[] arr = new int[10];
             int i;
-            Write("\n \n Read and Print elements of an array. ");
-            Write("___________________________________________");
+            WriteLine("\n \n Read and Print elements of an array. ");
+            WriteLine("___________________________________________");
             WriteLine("Input 10 elements in the array. ");
 
             for (i = 0; i < 10; ++i)
