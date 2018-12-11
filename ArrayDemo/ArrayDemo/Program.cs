@@ -40,7 +40,7 @@ namespace ArrayDemo
             }
             else if(arrayView == 3)
             {
-                WriteLine("Please select which element in the array you woul like to view (0-7)");
+                WriteLine("Please select which element in the array you would like to view (0-7)");
                 arrayView = Convert.ToInt32(ReadLine());
                 WriteLine(aray[arrayView]);
             }
